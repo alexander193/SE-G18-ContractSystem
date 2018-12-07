@@ -1,0 +1,9 @@
+sut\sa\g20\Entity\MaidSelectEntity.class
+sut\sa\g20\Repository\CompanyRepository.class
+sut\sa\g20\Repository\PromotionRepository.class
+sut\sa\g20\Repository\ContractRepository.class
+sut\sa\g20\Repository\MaidSelectRepository.class
+sut\sa\g20\Entity\PromotionEntity.class
+sut\sa\g20\Entity\ContractEntity.class
+sut\sa\g20\Entity\CompanyEntity.class
+sut\sa\g20\DemoApplication.class
